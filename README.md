@@ -31,7 +31,7 @@ Blockly 上では次の3ブロックとして扱えます。
 3. ずっと（forever）ループ内で `Update` ブロックを呼ぶ（`interval` は測定間隔、通常は `1` 秒でよい）
 4. 流量を使いたい場所（ラベル表示など）に `lpm` ブロックを接続する
 
-![digital 17pin out](docs/digital_17pin_out.png)
+![block sample](doc/block_sample.png)
 
 ## 流量計算式
 
